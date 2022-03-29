@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-<!-- - [Solution URL](https://your-solution-url.com)
-- [Live Site UR](https://your-live-site-url.com) -->
+- [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-css-BJcMlhlm5)
+- [Live Site UR](https://frontendmentor-four-card-feature-section-pink.vercel.app/)
 
 ## My process
 
